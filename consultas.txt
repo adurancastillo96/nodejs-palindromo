@@ -1,0 +1,11 @@
+El usuario ha comprobado la palabra "radar" y es un palíndromo.
+El usuario ha comprobado la palabra "reconocer" y es un palíndromo.
+El usuario ha comprobado la palabra "ddsfsf" y NO es un palíndromo.
+El usuario ha comprobado la palabra "ddsfsf" y NO es un palíndromo.
+El usuario ha comprobado la palabra "ddsfsf" y NO es un palíndromo.
+El usuario ha comprobado la palabra "radar" y es un palíndromo.
+El usuario ha comprobado la palabra "radar" y es un palíndromo.
+El usuario ha comprobado la palabra "radar" y es un palíndromo.
+El usuario ha comprobado la palabra "eliminar" y NO es un palíndromo.
+El usuario ha comprobado la palabra "eliminar" y NO es un palíndromo.
+El usuario ha comprobado la palabra "eliminar" y NO es un palíndromo.
